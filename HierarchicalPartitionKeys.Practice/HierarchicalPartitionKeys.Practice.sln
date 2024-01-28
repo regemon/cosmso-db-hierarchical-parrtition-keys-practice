@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HierarchicalPartitionKeys.Practice", "HierarchicalPartitionKeys.Practice\HierarchicalPartitionKeys.Practice.csproj", "{89FDE19D-8718-46A2-8C80-515BFB93C49F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89FDE19D-8718-46A2-8C80-515BFB93C49F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89FDE19D-8718-46A2-8C80-515BFB93C49F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89FDE19D-8718-46A2-8C80-515BFB93C49F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89FDE19D-8718-46A2-8C80-515BFB93C49F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C494790D-446B-40E4-A4CA-C4C4A6C6EEE8}
+	EndGlobalSection
+EndGlobal
